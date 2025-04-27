@@ -1,0 +1,12 @@
+/notes
+/venv
+
+/docker/nyc_taxi_data
+
+/terraform/.terraform
+/terraform/keys
+/terraform/terraform.tfstate
+/terraform/terraform.tfstate.backup
+/terraform/.terraform.lock.hcl
+
+*.json
